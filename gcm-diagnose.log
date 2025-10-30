@@ -1,0 +1,213 @@
+﻿Diagnose log at 2025-10-30T04:00:55Z
+
+AppPath: D:\Program files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: D:\Program files\Git\mingw64\bin\
+Version: 2.6.0+3c28096588f549cb46f36b552390514356830abe
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26100)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\thiru
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=HP
+GIT_TRACE2_PARENT_SID=311b46c3-b080-4309-b8ac-dc41a77a2179
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\thiru\OneDrive
+PYTHON_BASIC_REPL=1
+SESSIONNAME=Console
+LANG=en_US.UTF-8
+TMP=C:\Users\thiru\AppData\Local\Temp
+PROCESSOR_REVISION=8c01
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+GIT_ASKPASS=d:\Users\thiru\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+GIT_EXEC_PATH=D:/Program files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\thiru\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\thiru\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADfNB/imWj0G7XCTngf0cMwQAAAACAAAAAAAQZgAAAAEAACAAAAANPwDchMjhwiHciG2iObnfxpzgiteD6k8UJig7pBpPDgAAAAAOgAAAAAIAACAAAAAnWhY85D1kRE+DZQxjwJyyrtJC2F5ob6tAXAx7URVdXmAAAADq/8+ze/EeeGr283bcjwHhaS2ghTwxBj7zGdIZPcrOWA4adL/E0rYz/kLdrh6+7E4JxFCLnjNTcT1eEOaETuXBacgwXCJ9gJc+bAXzqEh4ufH4y5yZffaTXwhIByyQOyxAAAAA/uTkCM0BJxUgWWumpdBlyqFuJKtIteIo5ibt87QkkacfOMHF1LFE2sS6N7kk8qYtphR/PIJlzmz7g581y8Dy4g==
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+IntelliJ IDEA=D:\Program Files\JetBrains\IntelliJ IDEA 2024.2.4\bin;
+EFC_9016_1592913036=1
+JAVA_HOME=D:\Program Files\Java\jdk-21
+USERDOMAIN=HP
+ProgramFiles(x86)=C:\Program Files (x86)
+EFC_9016_344590478=1
+Path=D:/Program files/Git/mingw64/libexec/git-core;D:\Program files\Git\mingw64\bin;D:\Program files\Git\usr\bin;C:\Users\thiru\bin;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;D:\oraclexe\app\oracle\product\11.2.0\server\bin;D:\src\flutter\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program files\Java\jdk-21\bin;D:\Program Files\Git\cmd;D:\MinGW\bin;D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.41.34120\bin\Hostx64\x64;D:\Program files\PostgreSQL\17\bin;D:\oracle\instantclient_11_2;D:\Program files\MongoDB\Server\8.0\bin;D:\Program files\mongosh\mongosh-2.3.3-win32-x64\bin;D:\Users\thiru\AppData\Local\Programs\Python\Python313\Scripts\;D:\Users\thiru\AppData\Local\Programs\Python\Python313\;D:\Program Files\PuTTY\;D:\Program Files (x86)\WinSCP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\GitHub CLI\;D:\Program files\GitHub CLI;D:\n8n\node_modules\.bin;D:\Program files\win_flex_bison-2.5.25;D:\Program Files\nodejs\;D:\Users\thiru\AppData\Local\Programs\Python\Python313\Scripts\;D:\Users\thiru\AppData\Local\Programs\Python\Python313\;C:\Users\thiru\AppData\Local\Programs\Python\Launcher\;D:\src\flutter\bin;C:\Users\thiru\AppData\Local\Microsoft\WindowsApps;C:\Users\thiru\AppData\Local\GitHubDesktop\bin;D:\Users\thiru\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program files\Java\jdk-21\bin;D:\Program Files\JetBrains\IntelliJ IDEA 2024.2.4\bin;;D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.4\bin;;D:\MinGW\bin;C:\msys64\ucrt64\bin;C:\Users\thiru\AppData\Local\Pub\Cache\bin;D:\Program files\GitHub CLI;D:\n8n\node_modules\.bin;C:\Users\thiru\AppData\Roaming\npm;c:\Users\thiru\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=8
+TMPDIR=C:\Users\thiru\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+TERM_PROGRAM_VERSION=1.105.1
+VSCODE_GIT_ASKPASS_MAIN=d:\Users\thiru\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+PSModulePath=C:\Users\thiru\OneDrive\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-70000c45fb-sock
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+VSCODE_NONCE=1a7c215c-f18e-41c6-9c23-e9262a063a71
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_2696_DUUAKPGBCZYSIVRF
+asl.log=Destination=file
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+ProgramFiles=C:\Program Files (x86)
+VSCODE_GIT_ASKPASS_NODE=D:\Users\thiru\AppData\Local\Programs\Microsoft VS Code\Code.exe
+SystemRoot=C:\WINDOWS
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+PYTHONSTARTUP=c:\Users\thiru\AppData\Roaming\Code\User\workspaceStorage\8a85d198a8cda732bb44c7e8f290cf65\ms-python.python\pythonrc.py
+HOME=C:\Users\thiru
+VSCODE_STABLE=1
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\HP
+USERPROFILE=C:\Users\thiru
+IntelliJ IDEA Community Edition=D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.4\bin;
+COLORTERM=truecolor
+USERDOMAIN_ROAMINGPROFILE=HP
+APPDATA=C:\Users\thiru\AppData\Roaming
+HOMEDRIVE=C:
+VSCODE_A11Y_MODE=0
+USERNAME=thiru
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+windir=C:\WINDOWS
+OneDriveConsumer=C:\Users\thiru\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\thiru\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\thiru\AppData\Local\Temp\e003427597476f51b98f5aab'... OK
+Reading from temporary file 'C:\Users\thiru\AppData\Local\Temp\e003427597476f51b98f5aab'... OK
+Deleting temporary file 'C:\Users\thiru\AppData\Local\Temp\e003427597476f51b98f5aab'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\thiru
+UserDataDirectoryPath: C:\Users\thiru\.gcm
+GetCurrentDirectory(): C:\Users\thiru\Downloads\YOLO12-UnderWater-main\YOLO12-UnderWater-main
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:52262/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.47.0.windows.2'
+Locating current repository...Git repository at 'C:/Users/thiru/Downloads/YOLO12-UnderWater-main/YOLO12-UnderWater-main/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:D:/Program files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:D:/Program files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:D:/Program files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:D:/Program files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:D:/Program files/Git/etc/gitconfig	filter.lfs.required=true
+file:D:/Program files/Git/etc/gitconfig	http.sslbackend=openssl
+file:D:/Program files/Git/etc/gitconfig	http.sslcainfo=D:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:D:/Program files/Git/etc/gitconfig	core.autocrlf=true
+file:D:/Program files/Git/etc/gitconfig	core.fscache=true
+file:D:/Program files/Git/etc/gitconfig	core.symlinks=false
+file:D:/Program files/Git/etc/gitconfig	pull.rebase=false
+file:D:/Program files/Git/etc/gitconfig	credential.helper=manager
+file:D:/Program files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:D:/Program files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/thiru/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/thiru/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/thiru/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/thiru/.gitconfig	filter.lfs.required=true
+file:C:/Users/thiru/.gitconfig	user.name=Thirumal Priyan
+file:C:/Users/thiru/.gitconfig	user.email=thirumal.bodh@gmail.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/thirumal-bodh/YOLOv12_detection
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\thiru\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\thiru\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: False
+Exception:
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (rate limit exceeded).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at GitHub.GitHubRestApi.<GetMetaInfoAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitHub.Diagnostics.GitHubApiDiagnostic.<RunInternalAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint...
